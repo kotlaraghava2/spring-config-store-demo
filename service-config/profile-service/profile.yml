@@ -1,0 +1,2 @@
+server:
+  greeting: 'Hello this is profile default properties' 
